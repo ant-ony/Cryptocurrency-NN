@@ -14,6 +14,8 @@ Make sure to have all of the necessary imports:
 python -m pip install --user numpy scipy matplotlib pandas
 pip install --upgrade tensorflow
 
+Make sure to be using Python 3.x.
+
 Then from the command line you can simply run:
 python cryptoprediction.py
 
