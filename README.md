@@ -15,6 +15,7 @@
 # How to Run the Project
  ----------------------
 Make sure to have all of the necessary imports:
+
 python -m pip install --user numpy scipy matplotlib pandas
 
 pip install --upgrade tensorflow
