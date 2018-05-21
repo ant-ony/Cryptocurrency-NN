@@ -34,11 +34,17 @@ to change the speed at which the graph changes and the number of total epochs.
  ------------------------
 # What's in the Repository
  ------------------------
+
 cryptoprediction.py --> contains all neural network code
+
 all_currencies - kaggle dataset.csv --> the raw dataset
+
 data_cryptocurrencies --> cleaned and reformatted dataset
+
 Figures --> PNG files of figures from sample trial runs at certain mean squared errors.
+
 README  --> Description and Technical Report of the Project
+
 
  -------------------------
 # Motivation Behind Project
