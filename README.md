@@ -2,8 +2,11 @@
 
  ----------------------------------
  Author: "Antony Tokarr" (Manokhin)
+ 
  Spring 2018
+ 
  COGS 298 - Deep Learning
+ 
  Prof. Josh de Leeuw
  ----------------------------------
 
