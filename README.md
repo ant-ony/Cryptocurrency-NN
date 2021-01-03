@@ -1,13 +1,9 @@
-# COGS298-Cryptocurrency-NN
+# Cryptocurrency-NN
 
  ----------------------------------
- Author: "Antony Tokarr" (Manokhin)
+ Author: "Antony Tokarr" 
  
  Spring 2018
- 
- COGS 298 - Deep Learning
- 
- Prof. Josh de Leeuw
 
  ----------------------------------
 
